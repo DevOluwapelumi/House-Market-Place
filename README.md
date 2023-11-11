@@ -89,3 +89,6 @@ For a seamless buying or selling experience, connect with trusted real estate ag
 
 Secure and Transparent Transactions:
 We prioritize the security and transparency of transactions on our platform. Whether you're buying, selling, or renting, our secure payment systems and transparent communication channels provide peace of mind throughout the entire process.
+
+Interactive Community Features:
+Engage with our community of homeowners, buyers, and sellers through forums, discussions, and Q&A sessions. Share insights, ask questions, and connect with like-minded individuals to make well-informed decisions about your real estate journey.
