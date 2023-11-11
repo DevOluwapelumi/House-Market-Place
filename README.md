@@ -86,3 +86,6 @@ Each property listing provides comprehensive details, including high-quality ima
 
 Connect with Trusted Agents:
 For a seamless buying or selling experience, connect with trusted real estate agents who bring their expertise to our marketplace. Our network of experienced professionals is committed to guiding you through every step of the process, ensuring a smooth and informed transaction.
+
+Secure and Transparent Transactions:
+We prioritize the security and transparency of transactions on our platform. Whether you're buying, selling, or renting, our secure payment systems and transparent communication channels provide peace of mind throughout the entire process.
