@@ -77,3 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Discover a Wide Range of Homes:
 Explore an extensive catalog of homes for sale, rent, or lease, ranging from cozy apartments to spacious family houses and luxurious estates. Our marketplace showcases properties with diverse architectural styles, locations, and amenities to cater to every lifestyle and preference.
+
+User-Friendly Search and Filtering:
+Our user-friendly interface allows you to effortlessly browse through listings and refine your search based on essential criteria such as location, size, price range, and features. With advanced filtering options, finding the perfect home that meets your unique requirements has never been easier.
