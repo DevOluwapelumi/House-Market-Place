@@ -59,6 +59,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ### Advanced Configuration
 
+"Welcome to our House Marketplace, a virtual hub where homeowners, buyers, and sellers converge to explore, showcase, and facilitate the seamless exchange of residential properties. Our platform is designed to cater to the diverse needs of individuals navigating the dynamic world of real estate.
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
