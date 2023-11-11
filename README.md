@@ -83,3 +83,6 @@ Our user-friendly interface allows you to effortlessly browse through listings a
 
 Detailed Property Listings:
 Each property listing provides comprehensive details, including high-quality images, floor plans, virtual tours, and essential information about the neighborhood. Make informed decisions with detailed descriptions, property history, and transparent pricing.
+
+Connect with Trusted Agents:
+For a seamless buying or selling experience, connect with trusted real estate agents who bring their expertise to our marketplace. Our network of experienced professionals is committed to guiding you through every step of the process, ensuring a smooth and informed transaction.
