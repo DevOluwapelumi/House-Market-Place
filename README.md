@@ -70,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Discover a Wide Range of Homes:
+Explore an extensive catalog of homes for sale, rent, or lease, ranging from cozy apartments to spacious family houses and luxurious estates. Our marketplace showcases properties with diverse architectural styles, locations, and amenities to cater to every lifestyle and preference.
