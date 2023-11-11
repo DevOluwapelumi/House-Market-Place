@@ -71,5 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+
+
+"Welcome to our House Marketplace, a virtual hub where homeowners, buyers, and sellers converge to explore, showcase, and facilitate the seamless exchange of residential properties. Our platform is designed to cater to the diverse needs of individuals navigating the dynamic world of real estate.
+
 Discover a Wide Range of Homes:
 Explore an extensive catalog of homes for sale, rent, or lease, ranging from cozy apartments to spacious family houses and luxurious estates. Our marketplace showcases properties with diverse architectural styles, locations, and amenities to cater to every lifestyle and preference.
