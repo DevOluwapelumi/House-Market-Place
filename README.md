@@ -80,3 +80,6 @@ Explore an extensive catalog of homes for sale, rent, or lease, ranging from coz
 
 User-Friendly Search and Filtering:
 Our user-friendly interface allows you to effortlessly browse through listings and refine your search based on essential criteria such as location, size, price range, and features. With advanced filtering options, finding the perfect home that meets your unique requirements has never been easier.
+
+Detailed Property Listings:
+Each property listing provides comprehensive details, including high-quality images, floor plans, virtual tours, and essential information about the neighborhood. Make informed decisions with detailed descriptions, property history, and transparent pricing.
